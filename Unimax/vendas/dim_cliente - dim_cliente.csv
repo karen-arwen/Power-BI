@@ -1,0 +1,161 @@
+customer_id,cliente,segmento,porte_ou_faixa,uf,cidade,regiao_base
+1,Ursula Souza,Pessoa Física,Alta,BA,Salvador,Nordeste
+2,PME Cliente 002,PME,Médio,DF,Brasília,Centro-Oeste
+3,Ana Pereira,Pessoa Física,Baixa,GO,Goiânia,Centro-Oeste
+4,Hugo Oliveira,Pessoa Física,Alta,PE,Recife,Nordeste
+5,PME Cliente 005,PME,Médio,RS,Porto Alegre,Sul
+6,Eduarda Souza,Pessoa Física,Alta,PR,Curitiba,Sul
+7,Enterprise Cliente 007,Enterprise,Pequeno,PR,Curitiba,Sul
+8,Vinicius Ribeiro,Pessoa Física,Baixa,PR,Curitiba,Sul
+9,Carla Almeida,Pessoa Física,Média,PR,Curitiba,Sul
+10,Nicolas Silva,Pessoa Física,Média,PR,Curitiba,Sul
+11,PME Cliente 011,PME,Pequeno,RJ,Rio de Janeiro,Sudeste
+12,Ana Souza,Pessoa Física,Média,GO,Goiânia,Centro-Oeste
+13,PME Cliente 013,PME,Médio,PE,Recife,Nordeste
+14,Gabriela Oliveira,Pessoa Física,Média,PE,Recife,Nordeste
+15,PME Cliente 015,PME,Pequeno,BA,Salvador,Nordeste
+16,PME Cliente 016,PME,Pequeno,SP,São Paulo,Sudeste
+17,Queila Almeida,Pessoa Física,Alta,RJ,Rio de Janeiro,Sudeste
+18,Governo Cliente 018,Governo,Grande,RJ,Rio de Janeiro,Sudeste
+19,Ana Ribeiro,Pessoa Física,Baixa,PA,Belém,Norte
+20,PME Cliente 020,PME,Pequeno,RJ,Rio de Janeiro,Sudeste
+21,Gabriela Ribeiro,Pessoa Física,Média,PA,Belém,Norte
+22,Nicolas Oliveira,Pessoa Física,Alta,BA,Salvador,Nordeste
+23,Olivia Almeida,Pessoa Física,Média,GO,Goiânia,Centro-Oeste
+24,Isabela Silva,Pessoa Física,Média,RS,Porto Alegre,Sul
+25,PME Cliente 025,PME,Pequeno,GO,Goiânia,Centro-Oeste
+26,Governo Cliente 026,Governo,Médio,PR,Curitiba,Sul
+27,Enterprise Cliente 027,Enterprise,Grande,DF,Brasília,Centro-Oeste
+28,PME Cliente 028,PME,Grande,RS,Porto Alegre,Sul
+29,Zeca Costa,Pessoa Física,Baixa,PR,Curitiba,Sul
+30,Wesley Lima,Pessoa Física,Média,AM,Manaus,Norte
+31,Karen Pereira,Pessoa Física,Média,DF,Brasília,Centro-Oeste
+32,Enterprise Cliente 032,Enterprise,Pequeno,RS,Porto Alegre,Sul
+33,Eduarda Oliveira,Pessoa Física,Média,PR,Curitiba,Sul
+34,Zeca Santos,Pessoa Física,Alta,AM,Manaus,Norte
+35,Daniel Souza,Pessoa Física,Alta,SP,São Paulo,Sudeste
+36,PME Cliente 036,PME,Pequeno,PE,Recife,Nordeste
+37,Marina Souza,Pessoa Física,Alta,DF,Brasília,Centro-Oeste
+38,PME Cliente 038,PME,Médio,PR,Curitiba,Sul
+39,PME Cliente 039,PME,Pequeno,BA,Salvador,Nordeste
+40,Lucas Santos,Pessoa Física,Baixa,DF,Brasília,Centro-Oeste
+41,Enterprise Cliente 041,Enterprise,Médio,GO,Goiânia,Centro-Oeste
+42,Thiago Pereira,Pessoa Física,Baixa,PR,Curitiba,Sul
+43,Bruno Gomes,Pessoa Física,Média,PE,Recife,Nordeste
+44,PME Cliente 044,PME,Médio,BA,Salvador,Nordeste
+45,Enterprise Cliente 045,Enterprise,Médio,BA,Salvador,Nordeste
+46,Rafael Souza,Pessoa Física,Média,RJ,Rio de Janeiro,Sudeste
+47,PME Cliente 047,PME,Médio,BA,Salvador,Nordeste
+48,PME Cliente 048,PME,Médio,RJ,Rio de Janeiro,Sudeste
+49,PME Cliente 049,PME,Pequeno,RS,Porto Alegre,Sul
+50,Marina Souza,Pessoa Física,Baixa,RJ,Rio de Janeiro,Sudeste
+51,Rafael Pereira,Pessoa Física,Média,PE,Recife,Nordeste
+52,Ursula Almeida,Pessoa Física,Média,RS,Porto Alegre,Sul
+53,Enterprise Cliente 053,Enterprise,Pequeno,PA,Belém,Norte
+54,Lucas Almeida,Pessoa Física,Média,DF,Brasília,Centro-Oeste
+55,Gabriela Souza,Pessoa Física,Baixa,DF,Brasília,Centro-Oeste
+56,Bruno Oliveira,Pessoa Física,Baixa,SP,São Paulo,Sudeste
+57,Enterprise Cliente 057,Enterprise,Grande,PE,Recife,Nordeste
+58,PME Cliente 058,PME,Grande,DF,Brasília,Centro-Oeste
+59,Enterprise Cliente 059,Enterprise,Pequeno,BA,Salvador,Nordeste
+60,Enterprise Cliente 060,Enterprise,Médio,GO,Goiânia,Centro-Oeste
+61,Enterprise Cliente 061,Enterprise,Grande,SP,São Paulo,Sudeste
+62,Zeca Pereira,Pessoa Física,Baixa,AM,Manaus,Norte
+63,Carla Oliveira,Pessoa Física,Média,GO,Goiânia,Centro-Oeste
+64,Enterprise Cliente 064,Enterprise,Grande,BA,Salvador,Nordeste
+65,Daniel Lima,Pessoa Física,Média,PE,Recife,Nordeste
+66,Isabela Gomes,Pessoa Física,Baixa,AM,Manaus,Norte
+67,Ursula Santos,Pessoa Física,Média,AM,Manaus,Norte
+68,Enterprise Cliente 068,Enterprise,Pequeno,SP,São Paulo,Sudeste
+69,PME Cliente 069,PME,Médio,PE,Recife,Nordeste
+70,Felipe Santos,Pessoa Física,Alta,GO,Goiânia,Centro-Oeste
+71,Governo Cliente 071,Governo,Pequeno,DF,Brasília,Centro-Oeste
+72,PME Cliente 072,PME,Pequeno,AM,Manaus,Norte
+73,Lucas Oliveira,Pessoa Física,Baixa,RJ,Rio de Janeiro,Sudeste
+74,PME Cliente 074,PME,Médio,AM,Manaus,Norte
+75,Vinicius Pereira,Pessoa Física,Média,SP,São Paulo,Sudeste
+76,Enterprise Cliente 076,Enterprise,Pequeno,SP,São Paulo,Sudeste
+77,Wesley Souza,Pessoa Física,Média,BA,Salvador,Nordeste
+78,Governo Cliente 078,Governo,Pequeno,PE,Recife,Nordeste
+79,PME Cliente 079,PME,Médio,RS,Porto Alegre,Sul
+80,Thiago Costa,Pessoa Física,Média,AM,Manaus,Norte
+81,Rafael Oliveira,Pessoa Física,Média,RJ,Rio de Janeiro,Sudeste
+82,PME Cliente 082,PME,Médio,PA,Belém,Norte
+83,Felipe Gomes,Pessoa Física,Alta,RS,Porto Alegre,Sul
+84,Marina Pereira,Pessoa Física,Baixa,PE,Recife,Nordeste
+85,Ursula Ribeiro,Pessoa Física,Média,RS,Porto Alegre,Sul
+86,PME Cliente 086,PME,Pequeno,BA,Salvador,Nordeste
+87,PME Cliente 087,PME,Pequeno,BA,Salvador,Nordeste
+88,PME Cliente 088,PME,Pequeno,RS,Porto Alegre,Sul
+89,PME Cliente 089,PME,Pequeno,PA,Belém,Norte
+90,Enterprise Cliente 090,Enterprise,Pequeno,PR,Curitiba,Sul
+91,Hugo Santos,Pessoa Física,Baixa,PE,Recife,Nordeste
+92,Enterprise Cliente 092,Enterprise,Grande,RJ,Rio de Janeiro,Sudeste
+93,Zeca Silva,Pessoa Física,Média,BA,Salvador,Nordeste
+94,Enterprise Cliente 094,Enterprise,Médio,DF,Brasília,Centro-Oeste
+95,PME Cliente 095,PME,Pequeno,PR,Curitiba,Sul
+96,Hugo Silva,Pessoa Física,Alta,AM,Manaus,Norte
+97,Enterprise Cliente 097,Enterprise,Médio,RJ,Rio de Janeiro,Sudeste
+98,Karen Lima,Pessoa Física,Média,AM,Manaus,Norte
+99,PME Cliente 099,PME,Grande,PR,Curitiba,Sul
+100,Enterprise Cliente 100,Enterprise,Médio,RJ,Rio de Janeiro,Sudeste
+101,PME Cliente 101,PME,Pequeno,PR,Curitiba,Sul
+102,Isabela Souza,Pessoa Física,Alta,DF,Brasília,Centro-Oeste
+103,PME Cliente 103,PME,Pequeno,BA,Salvador,Nordeste
+104,Gabriela Almeida,Pessoa Física,Média,BA,Salvador,Nordeste
+105,Wesley Santos,Pessoa Física,Baixa,RJ,Rio de Janeiro,Sudeste
+106,PME Cliente 106,PME,Médio,RS,Porto Alegre,Sul
+107,PME Cliente 107,PME,Pequeno,RS,Porto Alegre,Sul
+108,PME Cliente 108,PME,Pequeno,AM,Manaus,Norte
+109,Gabriela Gomes,Pessoa Física,Média,BA,Salvador,Nordeste
+110,PME Cliente 110,PME,Grande,SP,São Paulo,Sudeste
+111,PME Cliente 111,PME,Médio,RJ,Rio de Janeiro,Sudeste
+112,Marina Gomes,Pessoa Física,Média,SP,São Paulo,Sudeste
+113,Eduarda Pereira,Pessoa Física,Baixa,RS,Porto Alegre,Sul
+114,Governo Cliente 114,Governo,Pequeno,GO,Goiânia,Centro-Oeste
+115,Enterprise Cliente 115,Enterprise,Médio,GO,Goiânia,Centro-Oeste
+116,PME Cliente 116,PME,Médio,AM,Manaus,Norte
+117,PME Cliente 117,PME,Médio,DF,Brasília,Centro-Oeste
+118,Eduarda Oliveira,Pessoa Física,Média,PR,Curitiba,Sul
+119,Yasmin Ribeiro,Pessoa Física,Baixa,GO,Goiânia,Centro-Oeste
+120,PME Cliente 120,PME,Pequeno,GO,Goiânia,Centro-Oeste
+121,Enterprise Cliente 121,Enterprise,Grande,PR,Curitiba,Sul
+122,Enterprise Cliente 122,Enterprise,Pequeno,RJ,Rio de Janeiro,Sudeste
+123,Rafael Pereira,Pessoa Física,Alta,DF,Brasília,Centro-Oeste
+124,Yasmin Almeida,Pessoa Física,Alta,SP,São Paulo,Sudeste
+125,Governo Cliente 125,Governo,Grande,RS,Porto Alegre,Sul
+126,Nicolas Almeida,Pessoa Física,Média,RJ,Rio de Janeiro,Sudeste
+127,Enterprise Cliente 127,Enterprise,Pequeno,PR,Curitiba,Sul
+128,Marina Santos,Pessoa Física,Média,PR,Curitiba,Sul
+129,Enterprise Cliente 129,Enterprise,Médio,DF,Brasília,Centro-Oeste
+130,PME Cliente 130,PME,Pequeno,DF,Brasília,Centro-Oeste
+131,PME Cliente 131,PME,Grande,GO,Goiânia,Centro-Oeste
+132,Hugo Costa,Pessoa Física,Média,PR,Curitiba,Sul
+133,Enterprise Cliente 133,Enterprise,Médio,BA,Salvador,Nordeste
+134,PME Cliente 134,PME,Médio,RS,Porto Alegre,Sul
+135,Queila Gomes,Pessoa Física,Média,RJ,Rio de Janeiro,Sudeste
+136,Enterprise Cliente 136,Enterprise,Grande,AM,Manaus,Norte
+137,Enterprise Cliente 137,Enterprise,Grande,RJ,Rio de Janeiro,Sudeste
+138,PME Cliente 138,PME,Médio,DF,Brasília,Centro-Oeste
+139,PME Cliente 139,PME,Médio,SP,São Paulo,Sudeste
+140,PME Cliente 140,PME,Médio,PE,Recife,Nordeste
+141,Enterprise Cliente 141,Enterprise,Pequeno,GO,Goiânia,Centro-Oeste
+142,Carla Silva,Pessoa Física,Baixa,PR,Curitiba,Sul
+143,PME Cliente 143,PME,Pequeno,AM,Manaus,Norte
+144,PME Cliente 144,PME,Médio,GO,Goiânia,Centro-Oeste
+145,Daniel Costa,Pessoa Física,Média,DF,Brasília,Centro-Oeste
+146,Ursula Costa,Pessoa Física,Baixa,RS,Porto Alegre,Sul
+147,Enterprise Cliente 147,Enterprise,Pequeno,AM,Manaus,Norte
+148,Vinicius Lima,Pessoa Física,Média,DF,Brasília,Centro-Oeste
+149,PME Cliente 149,PME,Pequeno,RJ,Rio de Janeiro,Sudeste
+150,PME Cliente 150,PME,Pequeno,PE,Recife,Nordeste
+151,Thiago Souza,Pessoa Física,Média,PA,Belém,Norte
+152,PME Cliente 152,PME,Médio,PR,Curitiba,Sul
+153,PME Cliente 153,PME,Grande,RS,Porto Alegre,Sul
+154,PME Cliente 154,PME,Pequeno,SP,São Paulo,Sudeste
+155,PME Cliente 155,PME,Pequeno,SP,São Paulo,Sudeste
+156,Marina Lima,Pessoa Física,Baixa,SP,São Paulo,Sudeste
+157,Thiago Gomes,Pessoa Física,Alta,SP,São Paulo,Sudeste
+158,Enterprise Cliente 158,Enterprise,Médio,RS,Porto Alegre,Sul
+159,Queila Pereira,Pessoa Física,Baixa,RS,Porto Alegre,Sul
+160,Rafael Silva,Pessoa Física,Média,RJ,Rio de Janeiro,Sudeste
