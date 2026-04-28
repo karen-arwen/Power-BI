@@ -1,0 +1,7 @@
+﻿ID;Modalidade;Instrutor;Vagas;Duracao;Preco_Mensal;Nivel
+1;Musculacao;Carlos Silva;40;60;120.00;Iniciante
+2;Crossfit;Juliana Rocha;20;50;180.00;Intermediario
+3;Yoga;Fernanda Lima;25;60;150.00;Iniciante
+4;Pilates;Marcos Souza;15;55;170.00;Intermediario
+5;Muay Thai;Ricardo Alves;18;70;160.00;Avancado
+6;Spinning;Patricia Gomes;22;45;140.00;Intermediario
