@@ -1,0 +1,17 @@
+product_id,sku,departamento,categoria,subcategoria,produto,marca,preco_lista,custo_padrao_unitario
+1,ELE-001,Eletrônicos,Computadores,Notebooks,ZenBook 14,Aster,4200,3024.0
+2,ELE-002,Eletrônicos,Computadores,Notebooks,ProBook 15,Aster,5100,3672.0
+3,ELE-003,Eletrônicos,Computadores,Monitores,View 24,Lumina,900,594.0
+4,ELE-004,Eletrônicos,Computadores,Monitores,View 27,Lumina,1400,924.0
+5,ELE-005,Eletrônicos,Mobile,Smartphones,Smart X,Orbit,1800,1260.0
+6,ELE-006,Eletrônicos,Mobile,Smartphones,Smart Max,Orbit,2600,1820.0
+7,ELE-007,Eletrônicos,Mobile,Tablets,Tab 10,Orbit,1400,994.0
+8,ELE-008,Eletrônicos,Mobile,Tablets,Tab Pro,Orbit,2200,1562.0
+9,CAS-009,Casa,Eletrodomésticos,Cafeteiras,Coffee Plus,Brasa,420,243.6
+10,CAS-010,Casa,Eletrodomésticos,Liquidificadores,Mix Power,Brasa,350,196.0
+11,CAS-011,Casa,Móveis,Cadeiras,Chair Fit,Linea,650,403.0
+12,CAS-012,Casa,Móveis,Mesas,Desk Home,Linea,980,627.2
+13,ESC-013,Escritório,Papelaria,Cadernos,Note Flex,Ponto,28,12.32
+14,ESC-014,Escritório,Papelaria,Canetas,Ink Pro,Ponto,8,03.04
+15,ESC-015,Escritório,Informática,Impressoras,Print Jet,TechPro,780,530.4
+16,ESC-016,Escritório,Informática,Roteadores,Router AX,TechPro,420,252.0

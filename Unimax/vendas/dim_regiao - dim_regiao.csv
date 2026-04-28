@@ -1,0 +1,11 @@
+region_id,regiao,uf,cidade
+1,Norte,AM,Manaus
+2,Norte,PA,Belém
+3,Nordeste,BA,Salvador
+4,Nordeste,PE,Recife
+5,Centro-Oeste,DF,Brasília
+6,Centro-Oeste,GO,Goiânia
+7,Sudeste,SP,São Paulo
+8,Sudeste,RJ,Rio de Janeiro
+9,Sul,PR,Curitiba
+10,Sul,RS,Porto Alegre
